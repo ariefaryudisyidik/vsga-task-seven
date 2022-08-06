@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">TaskSeven</string>
+    <string name="app_name">Task Seven</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="valid_username">arief</string>
+    <string name="valid_password">12345678</string>
+    <string name="wrong_username_password">Wrong username or password</string>
+    <string name="empty_username">Username can\'t be empty</string>
+    <string name="empty_password">Password can\'t be empty</string>
+    <string name="empty_country">Country can\'t be empty</string>
+    <string name="country_name">Country Name</string>
+    <string name="input_country_name">Input Country Name</string>
+    <string name="submit">Submit</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="malaysia">Malaysia</string>
+    <string name="thailand">Thailand</string>
+    <string name="kamboja">Kamboja</string>
+    <string name="filipina">Filipina</string>
 </resources>
